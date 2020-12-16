@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="124849" started-at="2020-07-21T15:19:33 IST" finished-at="2020-07-21T15:21:38 IST">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Runner.TestRunner@6a4f787b]" name="feature" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="CucumberBasics" duration-ms="124849" started-at="2020-07-21T15:19:33 IST" finished-at="2020-07-21T15:21:38 IST">
+      <class name="Runner.TestRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:Runner.TestRunner@6a4f787b]" name="setUpClass" is-config="true" duration-ms="901" started-at="2020-07-21T15:19:33 IST" finished-at="2020-07-21T15:19:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Runner.TestRunner@6a4f787b]" name="feature" duration-ms="53715" started-at="2020-07-21T15:19:34 IST" description="Runs Cucumber Feature" data-provider="features" finished-at="2020-07-21T15:20:28 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Create new Account for user and Account reated Activities.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Runner.TestRunner@6a4f787b]" name="feature" duration-ms="69757" started-at="2020-07-21T15:20:28 IST" description="Runs Cucumber Feature" data-provider="features" finished-at="2020-07-21T15:21:38 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User should be able to to do Transaction on an Existing Account]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:Runner.TestRunner@6a4f787b]" name="tearDownClass" is-config="true" duration-ms="68" started-at="2020-07-21T15:21:38 IST" finished-at="2020-07-21T15:21:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- Runner.TestRunner -->
+    </test> <!-- CucumberBasics -->
+  </suite> <!-- Default Suite -->
+</testng-results>
