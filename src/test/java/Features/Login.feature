@@ -1,5 +1,5 @@
 Feature: Login Functionality
-  @Smoke
+  @Smoke@regression
   Scenario: Login with correct username and password
     When Navigate to Login Page and enter the following
       | username | password |
