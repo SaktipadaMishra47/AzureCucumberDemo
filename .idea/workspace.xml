@@ -14,6 +14,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7847e32c-f800-408b-ba39-8c1bdd331479" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Features/Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Features/Login.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
