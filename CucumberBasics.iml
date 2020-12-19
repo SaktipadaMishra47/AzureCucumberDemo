@@ -19,7 +19,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://D:/softwares/postgresql-42.2.14.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Softwares/postgresql-42.2.14.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
